@@ -1,0 +1,193 @@
+h1 {
+  color: hsl(0, 85%, 47%);
+  font-size: 20px;
+  font-style: unset;
+  font-family: "Arial Narrow Bold", sans-serif;
+  font-weight: 300;
+  font-stretch: extra-condensed;
+}
+
+.nav-maroon {
+  color: maroon;
+  font-style: unset;
+  font-family: "Arial Narrow Bold", sans-serif;
+  font-weight: 300;
+  font-stretch: extra-condensed;
+}
+
+.p-maroon {
+  color: maroon;
+  font-style: unset;
+  font-family: "Arial Narrow Bold", sans-serif;
+  font-weight: 300;
+  font-stretch: extra-condensed;
+}
+
+.td-teal {
+  color: teal;
+  text-align: justify;
+}
+
+th,
+caption {
+  text-align: left;
+  background-color: lightgreen;
+}
+
+table,
+td {
+  font-family: "Arial Narrow";
+  font-weight: bold;
+  color: #24505c;
+  border: 1px solid black;
+  border-collapse: collapse;
+  border-style: solid;
+  vertical-align: top;
+}
+
+th {
+  border: 1px solid black;
+  border-collapse: collapse;
+  border-style: solid;
+  font-family: "Arial Narrow";
+  background-color: #d9ead3;
+  height: 1px;
+  width: 150px;
+}
+
+.th-red {
+  color: red;
+  font-family: "Arial Narrow", sans-serif;
+  font-weight: bold;
+}
+
+.th-blue {
+  color: blue;
+  font-family: "Arial Narrow", sans-serif;
+  font-weight: bold;
+}
+
+.th-green {
+  color: green;
+  font-family: "Arial Narrow", sans-serif;
+  font-weight: bold;
+}
+
+.th-goldenrod {
+  color: goldenrod;
+  font-family: "Arial Narrow", sans-serif;
+}
+
+.td-JdC {
+  font-family: "Arial Narrow", sans-serif;
+  font-weight: bold;
+  font-stretch: extra-condensed;
+  text-align: justify;
+}
+
+.td-1 {
+  color: teal;
+  font-family: "Arial Narrow", sans-serif;
+  font-weight: bold;
+  text-align: left;
+}
+
+.p-teal {
+  color: teal;
+  font-family: "Arial Narrow", sans-serif;
+  font-weight: bold;
+  font-stretch: extra-condensed;
+}
+
+.li-redcenter {
+  color: red;
+  font-family: "Arial Narrow", sans-serif;
+  font-weight: bold;
+  font-stretch: extra-condensed;
+  text-align: justify;
+}
+.li-green {
+  color: green;
+  font-family: "Arial Narrow", sans-serif;
+  font-weight: bold;
+  font-stretch: extra-condensed;
+  text-align: justify;
+}
+
+.li-black {
+  text-align: justify;
+}
+
+.li-blue {
+  color: blue;
+  font-family: "Arial Narrow", sans-serif;
+  font-weight: bold;
+  font-stretch: extra-condensed;
+  text-align: justify;
+}
+
+.li-pink {
+  color: pink;
+  font-family: "Arial Narrow", sans-serif;
+  font-weight: bold;
+  font-stretch: extra-condensed;
+  text-align: justify;
+}
+
+.li-yellow {
+  color: yellow;
+  font-family: "Arial Narrow", sans-serif;
+  font-weight: bold;
+  font-stretch: extra-condensed;
+  text-align: justify;
+}
+
+.li-brown {
+  color: brown;
+  font-family: "Arial Narrow", sans-serif;
+  font-weight: bold;
+  font-stretch: extra-condensed;
+  text-align: justify;
+}
+
+.li-orange {
+  color: orange;
+  font-family: "Arial Narrow", sans-serif;
+  font-weight: bold;
+  font-stretch: extra-condensed;
+  text-align: justify;
+}
+
+.li-teal {
+  color: teal;
+  font-family: "Arial Narrow", sans-serif;
+  font-weight: bold;
+  font-stretch: extra-condensed;
+  text-align: justify;
+}
+
+.li-skyblue {
+  color: skyblue;
+  font-family: "Arial Narrow", sans-serif;
+  font-weight: bold;
+  font-stretch: extra-condensed;
+}
+.li-red-left {
+  color: red;
+  font-family: "Arial Narrow", sans-serif;
+  font-weight: bold;
+  font-stretch: extra-condensed;
+}
+.li-maroon {
+  color: maroon;
+  font-family: "Arial Narrow", sans-serif;
+  font-weight: bold;
+  font-stretch: extra-condensed;
+}
+
+.footer-text {
+  font-family: "Arial Narrow", sans-serif;
+  font-weight: bold;
+  font-stretch: extra-condensed;
+  text-align: center;
+}
