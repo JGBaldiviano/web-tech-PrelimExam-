@@ -7,12 +7,16 @@ h1 {
   font-stretch: extra-condensed;
 }
 
-.nav-maroon {
+a:link {
   color: maroon;
   font-style: unset;
   font-family: "Arial Narrow Bold", sans-serif;
   font-weight: 300;
   font-stretch: extra-condensed;
+}
+
+a:hover {
+  color: aquamarine;
 }
 
 .p-maroon {
